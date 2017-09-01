@@ -5,5 +5,4 @@ Testing commit
 
 Tested…thx u Commit
 
-
-Bye cs
+newly edited ...finally found a way.
